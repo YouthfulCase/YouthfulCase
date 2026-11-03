@@ -10,7 +10,7 @@
 - glsl
 - lua
 
-> "我的神秘小电脑."
+> "我的神秘小电脑."<br>
 ![desktop](./desktop.png)<br>
 
 ## Links.
@@ -21,5 +21,5 @@
 - #### malody: [https://malody.mugzone.net/player/1631059](https://malody.mugzone.net/player/1631059)<br>
 - #### roblox: [https://www.roblox.com/users/168044826/profile](https://www.roblox.com/users/168044826/profile)<br>
 
-> "我不是4k痴.."
+> "我不是4k痴.."<br>
 <a href="https://osu.ppy.sh/users/18756019"><img src="https://osu-sig.s23.moe/card?user=YouthfulCase&mode=mania&lang=en&animation=true%22" width="550" /></a>
